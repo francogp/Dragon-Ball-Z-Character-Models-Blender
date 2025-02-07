@@ -1,0 +1,4 @@
+# Ignorar archivos .blend1, .blend2, .blend3, etc.
+*.blend1
+*.blend2
+*.blend3
